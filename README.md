@@ -1,14 +1,14 @@
-# ·ÎÇÏ½º ¿£ÅÍÅ×ÀÎ¸ÕÆ®
+# ë¡œí•˜ìŠ¤ ì—”í„°í…Œì¸ë¨¼íŠ¸
 # Lohas Entertainment
 
-ÇÑ ¿£ÅÍÅ×ÀÎ¸ÕÆ®ÀÇ ºÎÅ¹À¸·Î ¸¸µç À¥ »çÀÌÆ®ÀÔ´Ï´Ù.
+í•œ ì—”í„°í…Œì¸ë¨¼íŠ¸ì˜ ë¶€íƒìœ¼ë¡œ ë§Œë“  ì›¹ ì‚¬ì´íŠ¸ì…ë‹ˆë‹¤.
 It is a web site made with a request of entertainment.
 
-## ÃÖÃ¶È¯
+## ìµœì² í™˜
 ## Representative email : cch01024857239@gmail.com
 
-# À¥»çÀÌÆ® È­¸é 
-## ±×¸²À» Å¬¸¯ÇÏ¸é »çÀÌÆ®·Î ÀÌµ¿ÇÕ´Ï´Ù
-[![Site Label](https://github.com/cch230/balloon/blob/master/video.jpg)](http://lohascompany.com/default/) 
+# ì›¹ì‚¬ì´íŠ¸ í™”ë©´ 
+## ê·¸ë¦¼ì„ í´ë¦­í•˜ë©´ ì‚¬ì´íŠ¸ë¡œ ì´ë™í•©ë‹ˆë‹¤
+[![Site Label](https://github.com/cch230/Entertainment-Web-Site/blob/master/site1.JPG)](http://lohascompany.com/default/) 
 
 
