@@ -6,7 +6,7 @@
 It is a web site made with a request of entertainment.
 
 
-업체의 디자인 및 소스 업로드 거부로 사이트만 올립니다.
+업체의 디자인 및 소스 비밀유지계약으로 인해 사이트만 올립니다.
 
 ## 최철환
 ## Representative email : cch01024857239@gmail.com
